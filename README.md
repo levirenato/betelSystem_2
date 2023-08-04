@@ -2,6 +2,7 @@
 GUI para gerar ordem de serviço que se selecionado eniva um email para uma lista de transmissão, imprime e salva os arquivos numa pasta para guardar um historico. 100% feito em python.
 
 Obs: *a captura de tela não está mostrando a alertBox de erro nem os menus dropdown, esses ficaram apenas em screenshots no fim*
+
 ![image](https://github.com/levirenato/betelSystem_2/assets/84652664/7d83bdab-80cb-4b90-bf6e-db94e77a4c78)
 
 ## Crud com email de envio e lista de transmissão
