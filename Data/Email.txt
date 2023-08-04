@@ -1,0 +1,5 @@
+email
+exemplo@gmail.com
+NaN
+NaN
+NaN
